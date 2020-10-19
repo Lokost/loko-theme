@@ -1,2 +1,3 @@
 O tema Lokost foi desenvolvido no Oomox tendo uma grande chances de ter temas semelhantes, mas está de um modo que sinto-me confortável.
 O tema está disponível para interfaces em GTK, com algumas coisas especiais para o Gnome e o Cinnamon.
+Os arquivos dentro do compactado devem ser colocados na pasta HOME
